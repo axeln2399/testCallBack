@@ -1,0 +1,25 @@
+{
+  "name": "express-mongoose",
+  "version": "1.0.0",
+  "description": "Buatlah sebuah aplikasi express sederhana.",
+  "main": "App.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shifted-3/express-mongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shifted-3/express-mongoose/issues"
+  },
+  "homepage": "https://github.com/shifted-3/express-mongoose#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.9"
+  }
+}
